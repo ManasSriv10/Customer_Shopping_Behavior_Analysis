@@ -175,12 +175,6 @@ Customer_Shopping_Behavior_Analysis/
 
 ---
 
-## Dashboard Preview
-
-*Add screenshots of your Power BI dashboard here.*
-
----
-
 ## Contact
 
 **Manas Srivastava**
